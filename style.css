@@ -1,0 +1,134 @@
+.body{
+  font-size: 20px;
+}
+
+.bodybg {
+  background-image: url("http://drive.google.com/uc?export=view&id=1cvdCuV2p_hWW7YQSJokbOHr2Vd5iWRGs");
+  min-height: 500px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav li:hover{
+  background-color: #A0A1A9;
+}
+
+.nav{
+  background-color: rgba(0, 0, 0, .25);
+}
+
+
+.fpage {
+  background-image: url(http://drive.google.com/uc?export=view&id=1XGBdZbfaREdXfuhvSA3ymZiegoeLH0M2);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  height: 450px;
+  color: #E3E3E3;
+}
+
+
+.fpage p{
+  padding-top: 15px;
+}
+
+.fpage h1 {
+  text-align: right;
+  padding-right: 80px
+}
+
+.fpage a{
+  background-color: rgba(162, 163, 171, 1);
+  padding: 10px;
+  border-radius: 20px;
+  color: white;
+}
+
+.fpage a:hover{
+  background-color: #A0A1A9;
+}
+
+.fsection h2{
+  text-align: right;
+}
+
+.spage h1{
+  text-align: center;
+}
+
+.spage p{
+  text-align: center;
+  color: rgba(120, 121, 129, 1);
+}
+
+.phot h1{
+  text-align: center;
+}
+
+.btton button{
+  background-color: #A0A1A9;
+  height: 50px;
+  margin-top: 270px;
+}
+
+.btton button:hover{
+  background-color: #80818D;
+  height: 50px;
+  margin-top: 270px;
+}
+
+.fopage img{
+	margin-left: auto;
+	margin-right: auto;
+  height: 250px;
+  width: 350px;
+  align-items: center;
+  display: block;
+}
+
+.fopage h1{
+  text-align: center;
+}
+
+.fopage h2{
+  text-align: center;
+}
+
+.fopage p{
+  text-align: center;
+  color: rgba(120, 121, 129, 1);
+}
+
+.fthpage form{
+  width: 150px;
+}
+
+.fthpage img{
+  width: 100px;
+  height: 50px;
+}
+
+.fthpage {
+  background-color: rgba(162, 163, 171, 1)
+}
+
+.r1 input{
+  background-color: rgba(162, 163, 171, 1);
+}
+
+.clearfix{
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
